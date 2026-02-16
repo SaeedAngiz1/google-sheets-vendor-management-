@@ -178,6 +178,9 @@ const App: React.FC = () => {
           <p>
             Vendor Management Portal — Built with React + TypeScript
           </p>
+          <p className="footer-credit">
+            Made by Mohammad Saeed Angiz
+          </p>
         </footer>
       </div>
     </ErrorBoundary>
