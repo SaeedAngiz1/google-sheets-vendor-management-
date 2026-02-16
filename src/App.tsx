@@ -11,9 +11,6 @@
  * - Displays global alerts from vendor operations
  * - Shows loading states during initial data fetch
  *
- * Based on the original Python/Streamlit project by Sven-Bo:
- * @see https://github.com/Sven-Bo/google-sheets-data-entry-form-with-streamlit
- * @see https://www.youtube.com/watch?v=_G5f7og_Dpo
  */
 
 import React, { useState, useCallback } from 'react';
