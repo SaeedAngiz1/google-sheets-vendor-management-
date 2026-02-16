@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "A React + TypeScript Vendor Management Portal with Google Sheets integration. CRUD operations for vendor data with a modern, responsive UI.",
-  "author": "angiz",
+  "author": "Mohammad Saeed Angiz",
   "license": "MIT",
   "type": "module",
   "keywords": [
