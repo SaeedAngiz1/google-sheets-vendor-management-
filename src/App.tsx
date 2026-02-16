@@ -181,17 +181,6 @@ const App: React.FC = () => {
           <p>
             Vendor Management Portal — Built with React + TypeScript
           </p>
-          <p className="footer-credit">
-            Based on{' '}
-            <a
-              href="https://www.youtube.com/watch?v=_G5f7og_Dpo"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Coding Is Fun
-            </a>
-            {' '}tutorial by Sven-Bo
-          </p>
         </footer>
       </div>
     </ErrorBoundary>
